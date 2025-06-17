@@ -1,0 +1,69 @@
+@import "tailwindcss";
+ 
+@plugin "daisyui" {
+   themes: light --default;
+ };
+/* #nav{
+    font-size: 0.7rem;
+}
+#nav_bar{
+    position: relative;
+
+}
+#nav_bar::before{
+    content: "";
+    height: 3px;
+    width: 0;
+    background-color: var(--color-green-500);
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    
+    transition: 0.3s ease-in-out;
+    
+}
+#nav_bar:hover::before{
+    width: 48%;
+}
+#nav_bar::after{
+    content: "";
+    height: 3px;
+    width: 0;
+    background-color: var(--color-green-500);
+    position: absolute;
+    bottom: -3px;
+    right: 48%;
+    
+    transition: 0.3s ease-in-out;
+    
+}
+#nav_bar:hover::after{
+    width: 50%;
+} */
+#nav_bar:hover{
+    color: var(--color-cyan-400);
+    transition: 0.3s;
+
+}
+
+
+
+
+
+
+
+#homepage{
+    background-image:url('https://img.lovepik.com/bg/20240213/Laptop-Computer-Wallpaper-with-Water-Background-Aesthetic-Option-for-Your_3429357_wh1200.jpg');
+    width: 100%;
+     background-repeat: no-repeat;
+  
+   
+    background-size: cover;
+}
+#homepage2{
+    background-image:url('https://dlcdnwebimgs.asus.com/files/media/B54349DD-1E57-46B1-B1A7-10166BF72325/v1/img/gaming/bg-gaming.jpg');
+   background-repeat: no-repeat;
+   
+    background-size: cover;
+    background-attachment: fixed;
+}
