@@ -2,7 +2,7 @@
  
 @plugin "daisyui" {
    themes: light --default;
- };
+ }
 /* #nav{
     font-size: 0.7rem;
 }
