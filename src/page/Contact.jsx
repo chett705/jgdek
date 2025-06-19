@@ -31,7 +31,7 @@ function Contact() {
               <IoMdCall className='text-3xl me-3' />
               <div>
                 <p className='font-medium'>Phone</p>
-                <a href="tel:+855993443994" className='text-sm block'>+855 993 443 994</a>
+                <a href="tel:+855964129976" className='text-sm block'>+855 964129976</a>
               </div>
             </div>
 
@@ -47,7 +47,7 @@ function Contact() {
               <FaFacebookF className='text-3xl me-3' />
               <div>
                 <p className='font-medium'>Facebook</p>
-                <a href="#" className='text-sm block'>facebook.com/yourpage</a>
+                <a href="ahttps://www.facebook.com/share/16sZwCzKf1/?mibextid=wwXIfr" className='text-sm block'>Chett</a>
               </div>
             </div>
 
@@ -55,7 +55,7 @@ function Contact() {
               <FaYoutube className='text-3xl me-3' />
               <div>
                 <p className='font-medium'>YouTube</p>
-                <a href="#" className='text-sm block'>youtube.com/yourchannel</a>
+                <a href="#" className='text-sm block'></a>
               </div>
             </div>
 
