@@ -42,7 +42,7 @@ function Header() {
 
       {/* Main Header */}
       <div className='py-4 shadow-lg px-3 lg:px-0'>
-        <div className='container flex justify-between items-center text-[1.2rem]'>
+        <div className='container flex justify-between items-center text-[0.9rem]'>
           {/* Logo */}
           <div className='w-[40%] md:w-[20%] px-3'>
             <NavLink to="/" className='flex items-center'>
